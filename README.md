@@ -39,7 +39,7 @@
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,excel,powerbi,postgresql,github,git,obsstudio,vscode,figma,davinciresolve&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,r,SAS,powerbi,postgresql,github,git,obsstudio,vscode,excel,davinciresolve&theme=light" />
 </p>
 
 ---
